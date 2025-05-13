@@ -1,0 +1,29 @@
+site_name: G-nom Docs
+site_url: https://g-nom-project.github.io
+repo_url: https://github.com/G-nom-Project/g-nom
+repo_name: G-nom-Project/g-nom
+theme:
+  logo: assets/gnom.png
+  favicon: assets/gnom.png
+  icon:
+    repo: fontawesome/brands/github 
+  name: material
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/link
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off
+        name: Switch to system preference
