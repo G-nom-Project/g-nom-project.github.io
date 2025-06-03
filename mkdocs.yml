@@ -27,3 +27,13 @@ theme:
       toggle:
         icon: material/toggle-switch-off
         name: Switch to system preference
+
+nav:
+  - Welcome to the G-nom docs: index.md
+  - G-nom Core: core.md
+  - User Guide:
+    - Signing up: signup.md
+  - Admin Guide:
+    - Installation: setup.md
+    - Plugins: plugins.md
+  - Pipeline: pipeline.md
