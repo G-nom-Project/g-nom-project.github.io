@@ -36,4 +36,4 @@ nav:
   - Admin Guide:
     - Installation: setup.md
     - Plugins: plugins.md
-  - Pipeline: pipeline.md
+  - Pipelines: pipelines.md
