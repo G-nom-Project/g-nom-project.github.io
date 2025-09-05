@@ -32,8 +32,23 @@ nav:
   - Welcome to the G-nom docs: index.md
   - G-nom Core: core.md
   - User Guide:
+    - How to read this guide: user-guide/guide.md
     - Signing up: signup.md
+    - User dashboard: user-guide/dashboard.md
+    - Assembly Page: user-guide/assembly-page.md
+    - Genome Browser: user-guide/browser.md
   - Admin Guide:
     - Installation: setup.md
     - Plugins: plugins.md
   - Pipelines: pipelines.md
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - md_in_html
+  - pymdownx.blocks.caption
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
