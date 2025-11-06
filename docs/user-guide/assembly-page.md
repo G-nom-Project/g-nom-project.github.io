@@ -12,10 +12,12 @@ The remainder of the page is made up of four collapsible sections, which will be
 
 ## Assembly Information
 ![Assembly Collapsible](../assets/screenshots/AssemblyPageCollapsible1.png){ align=center }
+
 The assembly information sections contains G-nom internal information as well common quality metrics and statistics. This includes sequence and contig size statistics as well as N50 and GC content. To assess the completeness of the assembly / related annotation, please check out the BUSCO and fCAT results in the next section.
 
 ## Annotation completeness
 ![Assembly BUSCO](../assets/screenshots/AssemblyPageBUSCO.png){ align=center }
+
 The annotation completeness section presents visualizations for BUSCO and fCAT results. The plot differentiates between Complete (Single-copy), Complete (Duplicated), fragmented and missing. Please refer to the documentation of the underlying tools ([BUSCO](https://busco.ezlab.org/busco_userguide.html#interpreting-the-results) | [fCat](https://f1000research.com/posters/11-1091)) for guidance on how to interpret the results.
 
 ## Taxonomic assignment :material-account-hard-hat-outline:
@@ -29,4 +31,5 @@ The taxonomic assignment section includes the complete [dashboard](https://githu
 
 ## Genome Browser
 ![Assembly Browser](../assets/screenshots/AssemblyPageBrowser.png){ align=center }
+
 The genome browser section embeds a smaller version of the [JBrowse](https://jbrowse.org/jb2/) genome browser. Per default, all available tracks will be loaded. It links to selected genes in the taXaminer dashboard, allowing you to explore the genomic neighbourhood. For detailed investigation of browser tracks, consider using the [Full-screen browser](/user-guide/browser/).

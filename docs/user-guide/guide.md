@@ -1,3 +1,5 @@
+The G-nom documentation provides you with an overview of G-nom features and limitations as well as plugins and future extensions.
+
 ## Icons
 The following icons provide additional information at a glance.
 

@@ -4,4 +4,4 @@ Most of G-nom's functionality is tied to personal user accounts. You can create 
 
     Admins can disable self-signup at their discretion. In this case contact your administrator to create an account manually for you.
 
-Depending on your G-nom configuration, you may receive an e-mail to verify your e-mail address.
+If e-mail notifications are set up, you may receive an email to verify your mail address.
