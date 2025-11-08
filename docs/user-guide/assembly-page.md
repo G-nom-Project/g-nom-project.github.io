@@ -32,4 +32,4 @@ The taxonomic assignment section includes the complete [dashboard](https://githu
 ## Genome Browser
 ![Assembly Browser](../assets/screenshots/AssemblyPageBrowser.png){ align=center }
 
-The genome browser section embeds a smaller version of the [JBrowse](https://jbrowse.org/jb2/) genome browser. Per default, all available tracks will be loaded. It links to selected genes in the taXaminer dashboard, allowing you to explore the genomic neighbourhood. For detailed investigation of browser tracks, consider using the [Full-screen browser](/user-guide/browser/).
+The genome browser section embeds a smaller version of the [JBrowse](https://jbrowse.org/jb2/) genome browser. Per default, all available tracks will be loaded. It links to selected genes in the taXaminer dashboard, allowing you to explore the genomic neighbourhood. For detailed investigation of browser tracks, consider using the [Full-screen browser](./browser.md).
