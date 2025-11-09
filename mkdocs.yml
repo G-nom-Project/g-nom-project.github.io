@@ -30,9 +30,8 @@ theme:
 
 nav:
   - Welcome to the G-nom docs: index.md
-  - G-nom Core: core.md
   - User Guide:
-    - How to read this guide: user-guide/guide.md
+    - Overview: user-guide/guide.md
     - Signing up: signup.md
     - User dashboard: user-guide/dashboard.md
     - Data hierarchy: user-guide/data-hierarchy.md
@@ -41,6 +40,9 @@ nav:
     - Importing data: user-guide/import.md
   - Admin Guide:
     - Installation: setup.md
+    - Database: admin-guide/database.md
+    - Workers: admin-guide/workers.md
+    - Reverb: admin-guide/reverb.md
     - Plugins: plugins.md
   - Pipelines: pipelines.md
 

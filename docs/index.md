@@ -36,3 +36,7 @@
     [:octicons-arrow-right-24: License](https://github.com/G-nom-Project/g-nom)
 
 </div>
+
+--- 
+
+G-nom open-source software developed at the Ebersberger Lab at Goethe University

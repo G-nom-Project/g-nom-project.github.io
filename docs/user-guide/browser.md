@@ -1,5 +1,7 @@
 ![Genome Browser](../assets/screenshots/gnom_browser.png){ align=center }
-
+/// caption
+Example screenshot of the genome browser with one annotation loaded
+///
 
 G-nom integrates a fully featured genome browser powered by [JBrowse2](https://jbrowse.org/jb2/). G-nom automatically generates track configs for all genomic annotations and mappings uploaded for a given assembly. Tracks use the names provided on [import](./import.md). G-nom also generates [tabix](https://www.htslib.org/doc/tabix.html) indices automatically, enabling full-text search of annotation and mapping feature i.e. by their feature IDs.
 
