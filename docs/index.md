@@ -9,7 +9,7 @@
 
     Learn how to use an existing G-nom installation
 
-    [:octicons-arrow-right-24: Getting started](#)
+    [:octicons-arrow-right-24: Getting started](./user-guide/guide.md)
 
 -   :material-wrench:{ .lg .middle } __For sysadmins__
 
@@ -17,7 +17,7 @@
 
     Learn how to maintain and expand an existing G-nom installation
 
-    [:octicons-arrow-right-24: Reference](#)
+    [:octicons-arrow-right-24: Reference](./admin-guide/index.md)
 
 -   :material-rocket:{ .lg .middle } __Installation__
 
@@ -25,7 +25,7 @@
 
     Get a new G-nom installation running in minutes using docker
 
-    [:octicons-arrow-right-24: Customization](#)
+    [:octicons-arrow-right-24: Installation guide](./setup.md)
 
 -   :material-scale-balance:{ .lg .middle } __Open Source, GPL-2.0__
 
