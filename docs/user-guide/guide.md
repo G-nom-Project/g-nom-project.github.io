@@ -20,7 +20,7 @@ The G-nom documentation provides you with an overview of G-nom features and limi
 
     Learn how to use G-nom features and core plugins to explore genomics data.
 
-    [:octicons-arrow-right-24: Get started](./dashboard.md)
+    [:octicons-arrow-right-24: Get started](./explore.md)
 
 -   :material-rocket:{ .lg .middle } __Data organization__
 

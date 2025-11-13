@@ -33,6 +33,7 @@ nav:
   - User Guide:
     - Overview: user-guide/guide.md
     - Signing up: signup.md
+    - User roles and groups: user-guide/groups.md
     - User dashboard: user-guide/dashboard.md
     - Data hierarchy: user-guide/data-hierarchy.md
     - Assembly Page: user-guide/assembly-page.md
